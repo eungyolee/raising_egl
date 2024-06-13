@@ -1,13 +1,17 @@
 <template>
   <div class="main">
     <h1 class="title">이은교 키우기</h1>
-    <img src="@/assets/Profile.jpg" class="main_image" /><br />
+    <img src="@/assets/Profile.png" class="main_image" /><br />
     <router-link to="/test">
       <button class="start_button">시작하기</button> </router-link
     ><br />
     <router-link class="help" to="/help">도움말</router-link>
   </div>
 </template>
+
+<script>
+console.log("인생 최대의 흑역사");
+</script>
 
 <style>
 @font-face {

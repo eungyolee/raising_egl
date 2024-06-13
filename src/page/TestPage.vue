@@ -11,9 +11,9 @@ export default {
         "운동회에 참여하는 7살의 이은교이다.",
         "사람 한명을 암살하는 초등학교 1학년(사실 2학년임)의 이은교이다.",
         "라이언의 뺨을 때리는 초등학교 4학년의 이은교이다.",
-        "초등학교를 졸업한 이은교이다.",
+        "초등학교를 졸업한 이은교이다. (잘 나온 사진이 없어서 뒷모습으로 대체)",
         "전주 여행을 간 중학교 1학년의 이은교이다.",
-        "현재(중학교 2학년)의 이은교이다.",
+        "다시 유치원으로 돌아간 듯한 고1의 이은교이다.",
       ],
       image: [
         require("@/assets/face/baby.jpg"),
@@ -21,9 +21,9 @@ export default {
         require("@/assets/face/seven.jpg"),
         require("@/assets/face/ele1.jpg"),
         require("@/assets/face/ele4.jpg"),
-        require("@/assets/face/ele6.jpg"),
+        require("@/assets/face/ele6.png"),
         require("@/assets/face/mid1.jpg"),
-        require("@/assets/face/mid2.jpg"),
+        require("@/assets/face/high1.jpg"),
       ],
       success: false,
       removeToast: null,
@@ -103,6 +103,7 @@ export default {
 
 .face_image {
   width: 400px;
+  height: 400px;
 }
 
 .enforce_button {

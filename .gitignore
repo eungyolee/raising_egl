@@ -23,3 +23,6 @@ pnpm-debug.log*
 *.sw?
 #Electron-builder output
 /dist_electron
+
+src/assets/face
+src/assets/finish.jpg
