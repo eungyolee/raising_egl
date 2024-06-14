@@ -77,6 +77,8 @@ console.log("인생 최대의 흑역사");
     width: 100%;
     height: 600px;
     border-radius: 0px;
+    background-color: #191919;
+    color: white;
   }
 
   .title {
