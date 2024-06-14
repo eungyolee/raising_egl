@@ -156,6 +156,11 @@ export default {
     height: 300px;
   }
 
+  .enforce_button:hover {
+    background-color: white;
+    color: black;
+  }
+
   .success_toast {
     margin-top: 0px;
   }

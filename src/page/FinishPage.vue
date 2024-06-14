@@ -2,8 +2,7 @@
   <div class="main">
     <h1 class="congratulations">축하합니다!</h1>
     <h3>
-      저걸 다 깨셨군요!
-      <del>어케 했누;</del><br />
+      저걸 다 깨셨군요!<br />
       혹시 다시 해보시는 것은 어떠신가요? ^^
     </h3>
     <router-link to="/">
