@@ -153,6 +153,7 @@ export default {
 
   .face_image {
     width: 300px;
+    height: 300px;
   }
 
   .success_toast {
